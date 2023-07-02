@@ -11,17 +11,6 @@
 <form>
     <h1> upsc </h1>
     <p> I'm learning css.Today I am very happy,To share that it is my first successfull css program! </p>
-    <p>1.Which of the following Articles of the Indian Constitution is/are related to the protection of the environment.</p>
-    <p>I.Article 48-A
-        <br>
-        II.Article 51A(g)
-        Select the correct code:
-        </p>
-    <div>    <label><input type="radio" value="I only" name="answe">I only</label> <br>
-    <label><input type="radio" value="II only" name="answer">II only</label><br>
-    <label><input type="radio" value="neither I nor II " name="answer">neither I nor II</label><br>
-    <label><input type="radio" value="both I and II " name="answer">both I and II </label><br> 
-</div>
        <p>1.Consider the following statements.</p>
        <p>I. The National Environment Tribunal was established in 1995 as a statutory organisation.
        <br>II.The National Green Tribunal was established in 2010 as a statutory organisation.
@@ -32,6 +21,17 @@
     <label><input type="radio" value="neither I nor II " name="answer">neither I nor II</label><br>
     <label><input type="radio" value="both I and II " name="answer">both I and II </label><br>
 </div> 
+     <p>2.Consider the following statements.</p>
+       <p>I. The National Environment Tribunal was established in 1995 as a statutory organisation.
+       <br>II.The National Green Tribunal was established in 2010 as a statutory organisation.
+        <br>Select the correct statement: </p>
+ <div>
+        <label><input type="radio" value="I only" name="answe">I only</label><br>
+        <label><input type="radio" value="II only" name="answer">II only</label><br>
+    <label><input type="radio" value="neither I nor II " name="answer">neither I nor II</label><br>
+    <label><input type="radio" value="both I and II " name="answer">both I and II </label><br>
+</div> 
+
     <p>3.Which of the following is NOT a pillar of the Indo-Pacific Economic Framework for Prosperity (IPEF)?</p>
     <label> 
 <div> 
@@ -72,7 +72,7 @@
             <tr>
                 <td>3. Logistics Exchange Memorandum of Agreement </td>
                 <td> 2015 </td>
-            </tr>
+            </tr>            
             <tr>
                 <td>4.General Security of Military Information Agreement </td>
                 <td> 2010 </td>
@@ -85,7 +85,7 @@
     <label><input type="radio" value="(b) Only two pairs" name="answer">(b) Only two pairs</label><br>
     <label><input type="radio" value="(c) Only three pairs " name="answer">(c) Only three pairs</label><br>
     <label><input type="radio" value="(d) All four pairs" name="answer">(d) All four pairs</label><br> 
-</div>   
+</div> 
 </form>
 </body>
 </html>
