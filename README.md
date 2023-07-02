@@ -22,7 +22,7 @@
     <label><input type="radio" value="neither I nor II " name="answer">neither I nor II</label><br>
     <label><input type="radio" value="both I and II " name="answer">both I and II </label><br> 
 </div>
-       <p>2.Consider the following statements.</p>
+       <p>1.Consider the following statements.</p>
        <p>I. The National Environment Tribunal was established in 1995 as a statutory organisation.
        <br>II.The National Green Tribunal was established in 2010 as a statutory organisation.
         <br>Select the correct statement: </p>
